@@ -1,2 +1,4 @@
 here is the my first git test file...
-new line on boo.txt
+
+new line on test.txt (the right one!)
+
